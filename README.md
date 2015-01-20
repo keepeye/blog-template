@@ -19,7 +19,7 @@
 ![手机浏览][3]
 
 
-  [2]: http://keepeye.qiniudn.com/20141018博客模板截屏-首页.png
+  [2]: http://keepeye.qiniudn.com/20141018博客模板截屏-首页1.png
   [3]: http://keepeye.qiniudn.com/20141018%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF%E6%88%AA%E5%B1%8F-%E9%A6%96%E9%A1%B5%E7%AA%84%E5%B1%8F.png
 
 
